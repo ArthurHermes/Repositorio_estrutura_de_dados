@@ -1,2 +1,2 @@
-# Pilha_Estatica_e_Dinamica
- Repositorio para a tarefa sobre pilhas
+# Repositorio para a materia de Estrutura de Dados
+ Repositorio para armazenar as tarefas de estrutura de dados
